@@ -1,0 +1,19 @@
+docs/protocol.md
+  s_548f09ee6d2db3::t_fafee9de956e5d 449,451
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "07579b21d5b677462c8d07400f66a445540759d3",
+  "prompts": {},
+  "sessions": {
+    "s_548f09ee6d2db3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a55b-cd74-7120-b8e2-9b65bda5c066",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "feiyangliu <feiyangliu@trip.com>"
+    }
+  }
+}
